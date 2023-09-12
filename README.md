@@ -5,17 +5,17 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=thepalmeratech" alt="thepalmeratech" /></a> </p>
 
-- 🔭 I’m currently working on [Mente Publica](mentepublica.org)
+- 🔭 I’m currently working on [Espacio LAR](espaciolar.com) and [Mente Publica](mentepublica.org)
 
 - 🌱 I’m currently learning **reacts js**
 
-- 💬 Ask me about **ruby on rails, stimimulis, ruby, javascript, wordpress, bootsrap, sass, neat, bourbun**
+- 💬 Ask me about **ruby on rails and react, stimimulis, ruby, javascript, wordpress, bootsrap, sass, neat, bourbun, figma, ubuntu**
 
 - 📫 How to reach me **hanaleymosley@palmeratech.com**
 
 - 📄 Know about my experiences [https://www.linkedin.com/in/hanaley-mosley-4864b127a/](https://www.linkedin.com/in/hanaley-mosley-4864b127a/)
 
-- ⚡ Fun fact **sticker collectionist, love hikes, playing guitar and writting stories**
+- ⚡ Fun fact **sticker collectionist, love hikes, cooking, and writting stories**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
