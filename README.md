@@ -10,7 +10,7 @@
 
 - 💬 Ask me about **ruby on rails and react, stimimulis, ruby, javascript, wordpress, bootsrap, sass, neat, bourbun, figma, ubuntu**
 
-- 📫 How to reach me **hanaleymosley@palmeratech.com**
+- 📫 How to reach me **palmeratech7@gmail.com**
 
 - 📄 Know about my experiences [https://www.linkedin.com/in/hanaley-mosley-4864b127a/](https://www.linkedin.com/in/hanaley-mosley-4864b127a/)
 
