@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=thepalmeratech" alt="thepalmeratech" /></a> </p>
 
-- 🔭 Recently worked for web projects at [Espacio LAR](https://espaciolar.com) and [Mente Publica](https://masmovilpanama.com)
+- 🔭 Recently worked for web projects at [Espacio LAR](https://espaciolar.com) and [+Mas Movil](https://masmovilpanama.com)
 - 🌱 I recently learned **reacts js**
 
 - 💬 Ask me about **ruby on rails and react, stimimulis, ruby, javascript, wordpress, bootsrap, sass, neat, bourbun, figma, ubuntu**
