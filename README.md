@@ -8,7 +8,7 @@
 - 🔭 Recently worked for web projects at [Espacio LAR](https://espaciolar.com) and [+Mas Movil](https://masmovilpanama.com)
 - 🌱 I recently learned **reacts js**
 
-- 💬 Ask me about **ruby on rails and react, stimimulis, ruby, javascript, wordpress, bootsrap, sass, neat, bourbun, figma, ubuntu**
+- 💬 Ask me about **Fullstack development and UI Design**
 
 - 📫 How to reach me **palmeratech7@gmail.com**
 
