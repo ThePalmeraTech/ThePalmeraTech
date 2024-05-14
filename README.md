@@ -6,7 +6,7 @@
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=thepalmeratech" alt="thepalmeratech" /></a> </p>
 
 - 🔭 Recently worked for web projects at [Espacio LAR](https://espaciolar.com) and [+Mas Movil](https://masmovilpanama.com)
-- 🌱 I recently learned **reacts js**
+- 🌱 I recently learned **Wagtail & Django**
 
 - 💬 Ask me about **Fullstack development and UI Design**
 
