@@ -6,9 +6,10 @@
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=thepalmeratech" alt="thepalmeratech" /></a> </p>
 
 - 🔭 Recently worked for web projects at [Illueca](https://illueca.com),  [WebDev Camp](https://github.com/ThePalmeraTech/campamento-web), [Espacio LAR](https://espaciolar.com) and [+Mas Movil](https://masmovilpanama.com)
-- 🌱 I recently learned **Wagtail & Django**
 
-- 💬 Ask me about **Fullstack development and UI Design**
+- 🌱 My latests stacks: NextJS & Node, Ruby on rails
+
+- 💬 Ask me about  UI Desgin and UX, Frontend Developepment, Wordpress & Plugin Development, Gutenberg Blocks
 
 - 📫 How to reach me **palmeratech7@gmail.com**
 
