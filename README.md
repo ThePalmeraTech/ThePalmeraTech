@@ -7,9 +7,9 @@
 
 - 🔭 Recently worked for web projects at [Illueca](https://illueca.com),  [WebDev Camp](https://github.com/ThePalmeraTech/campamento-web), [Espacio LAR](https://espaciolar.com) and [+Mas Movil](https://masmovilpanama.com)
 
-- 🌱 My latests stacks: NextJS & Node, Ruby on rails
+- 🌱 My latests stacks: NextJS & Node, ReactJS, Ruby on rails, Django, PostgreSQL
 
-- 💬 Ask me about  UI Desgin and UX, Frontend Developepment, Wordpress & Plugin Development, Gutenberg Blocks
+- 💬 Ask me about  UI Desgin and UX, Fullstack Developepment, Wordpress & Gutenberg Blocks
 
 - 📫 How to reach me **palmeratech7@gmail.com**
 
