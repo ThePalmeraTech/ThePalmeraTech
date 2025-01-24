@@ -13,7 +13,7 @@
 
 - 📫 How to reach me **palmeratech7@gmail.com**
 
-- 📄 Know about my experiences [https://www.linkedin.com/in/hanaley-mosley-4864b127a/](https://www.linkedin.com/in/hanaley-mosley)
+- 📄 Know about my experiences [LinkedIn](https://www.linkedin.com/in/hanaley-mosley)
 
 - ⚡ Fun fact **sticker collectionist, love hikes, cooking, and writting stories**
 
