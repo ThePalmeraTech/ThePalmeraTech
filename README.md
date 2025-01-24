@@ -7,7 +7,7 @@
 
 - 🔭 Recently worked for web projects at [KNTRKT](https://kntrkt.app), [Illueca](https://illueca.com),  [WebDev Camp](https://github.com/ThePalmeraTech/campamento-web), [Espacio LAR](https://espaciolar.com) and [+Mas Movil](https://masmovilpanama.com)
 
-- 🌱 My latests stacks: NextJS & Node, ReactJS, Ruby on rails, Django, PostgreSQL
+- 🌱 My latests stacks: NextJS, ReactJS, Ruby on rails, Django, PostgreSQL
 
 - 💬 Ask me about  UI Desgin and UX, Fullstack Developepment, Wordpress & Gutenberg Blocks
 
