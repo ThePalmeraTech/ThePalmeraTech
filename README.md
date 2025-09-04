@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=thepalmeratech" alt="thepalmeratech" /></a> </p>
 
-- 🔭 Recently worked for web projects at [KNTRKT](https://kntrkt.app), [Illueca](https://illueca.com),  [WebDev Camp](https://github.com/ThePalmeraTech/campamento-web), [Espacio LAR](https://espaciolar.com) and [+Mas Movil](https://masmovilpanama.com)
+- 🔭 Recently worked for web projects at [KNTRKT](https://kntrkt.app), [Charity How To](https://charityhowto.org), [Illueca](https://illueca.com),  [WebDev Camp](https://github.com/ThePalmeraTech/campamento-web), [Espacio LAR](https://espaciolar.com) and [+Mas Movil](https://masmovilpanama.com)
 
 - 🌱 My latests stacks: NextJS, ReactJS, Ruby on rails, Django, PostgreSQL
 
