@@ -9,7 +9,7 @@
 
 - 🌱 My latests stacks: NextJS, ReactJS, Ruby on rails, Django, PostgreSQL
 
-- 💬 Ask me about  UI Desgin and UX, Fullstack Developepment, Wordpress & Gutenberg Blocks
+- 💬 Ask me about  UI Desgin and UX, Fullstack Development, Wordpress & Gutenberg Blocks
 
 - 📫 How to reach me **palmeratech7@gmail.com**
 
